@@ -1,0 +1,6 @@
+# Browsers that we support
+
+defaults
+not IE 11
+node 14
+not op_mini all
